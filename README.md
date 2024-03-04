@@ -1,5 +1,34 @@
 # EventBooking
 
+# Application structure
+
+Enclosed basic flow of Event Booking application with Real API integration. 
+Major Modules Covered as below
+
+1) Event Planner Registration and Login
+2) Create Event
+3) Event List
+4) Book Tickets
+5) My Tickets
+6) Booking
+
+# Application snap shot
+
+Home page
+
+![events booking snapshot 01](https://github.com/1998Hirushamalith/Eventbooking/assets/130145482/8e317b6d-6359-44b9-97e9-4fd670622515)
+
+
+Login page
+
+![events booking snapshot 02](https://github.com/1998Hirushamalith/Eventbooking/assets/130145482/dfc52df3-1baa-437c-9383-77811d28c492)
+
+
+User Creation page
+
+![events booking snapshot 03](https://github.com/1998Hirushamalith/Eventbooking/assets/130145482/2fec6a1c-4a41-4bfd-93f6-84ad8408dcfc)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
 ## Development server
